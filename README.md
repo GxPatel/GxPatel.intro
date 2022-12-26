@@ -19,7 +19,7 @@
 ### :woman_technologist: About Me :
 
 - 🔭 I’m currently working on Data Science
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently learning Stats & ML
 - 💬 Ask me about MATH
 - 📫 How to reach me: gp158200@gmail.com
 - 😄 Pronouns: she/her
