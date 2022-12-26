@@ -9,6 +9,9 @@
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
 </div>
+<div id="badges" align="center">
+    <img src="https://komarev.com/ghpvc/?username=gitonhubs&style=flat-square&color=blue" alt=""/>
+ </div>
 
 ### Hi there 👋
 
