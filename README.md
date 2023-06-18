@@ -18,7 +18,7 @@
 ---
 ### :woman_technologist: About Me :
 
-- 🔭 I’m currently working on Data Science
+- 🔭 I’m an undergraduate Data Science student
 - 🌱 I’m currently learning Stats & ML
 - 💬 Ask me about MATH
 - 📫 How to reach me: gp158200@gmail.com
