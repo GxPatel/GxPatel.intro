@@ -21,9 +21,9 @@
 - 🔭 I’m an undergraduate Data Science student
 - 🌱 I’m currently learning Stats & ML
 - 💬 Ask me about MATH
-- 📫 How to reach me: gp158200@gmail.com
+- 📫 How to reach me: goraldp@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I have no life!
+- ⚡ Fun fact: Living the data-based life!
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
