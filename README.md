@@ -18,9 +18,9 @@
 ---
 ### :woman_technologist: About Me :
 
-- 🔭 I’m an undergraduate Data Science student
-- 🌱 I’m currently learning Stats & ML
-- 💬 Ask me about MATH
+- 🔭 I’m a graduate Data Science student
+- 🌱 I’m currently learning Stats, ML, & AI
+- 💬 Ask me about MATH!
 - 📫 How to reach me: goraldp@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Living the data-based life!
